@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brillo-del_Sol</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    /*preferencias*/
+    <string name="pref_ciudad_key" translatable="false">preferencias ciudad</string>
+    <string name="pref_ciudad_sumary">elige una ciudad</string>
+    <string name="pref_cudad_title">Ciudad</string>
+
+    <string name="pref_location_key" translatable="false">Localizacion</string>
+    <string name="pref_lcation_sumary">localizacion</string>
+    <string name="pref_location_title">titulo</string>
+    <string name="pref_location_default" translatable="false">lima</string>
+
+</resources>
